@@ -1,0 +1,51 @@
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.deps.json
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.json
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.pdb
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\CalculatorTest\bin\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfo.cs
+C:\Users\hp\source\repos\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CopyComplete
+C:\Users\hp\source\repos\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\hp\source\repos\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.pdb
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.deps.json
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.json
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.dev.json
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.pdb
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\bin\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfo.cs
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CopyComplete
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\hp\source\repos\String Calculator Kata\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.pdb
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.deps.json
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.json
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.runtimeconfig.dev.json
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\CalculatorTest.pdb
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\bin\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.AssemblyInfo.cs
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.csproj.CopyComplete
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\CalculatorTest\obj\Debug\netcoreapp2.1\CalculatorTest.pdb

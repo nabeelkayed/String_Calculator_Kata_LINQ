@@ -1,0 +1,33 @@
+C:\Users\hp\source\repos\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.AssemblyInfo.cs
+C:\Users\hp\source\repos\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.deps.json
+C:\Users\hp\source\repos\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.runtimeconfig.json
+C:\Users\hp\source\repos\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.runtimeconfig.dev.json
+C:\Users\hp\source\repos\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.deps.json
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.runtimeconfig.json
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.runtimeconfig.dev.json
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.AssemblyInfo.cs
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.deps.json
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.runtimeconfig.json
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.runtimeconfig.dev.json
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\bin\Debug\netcoreapp2.1\String Calculator Kata.pdb
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.AssemblyInfo.cs
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.dll
+C:\Users\hp\source\repos\String Calculator Kata - LINQ\String Calculator Kata\obj\Debug\netcoreapp2.1\String Calculator Kata.pdb
